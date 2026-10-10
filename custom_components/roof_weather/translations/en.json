@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Roof weather station",
+        "description": "Add the rooftop weather station. No credentials are required."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "The roof weather station is already configured."
+    }
+  }
+}

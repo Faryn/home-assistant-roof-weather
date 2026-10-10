@@ -1,0 +1,11 @@
+{
+  "domain": "roof_weather",
+  "name": "Roof weather station",
+  "config_flow": true,
+  "documentation": "https://www.arrowdynamics.systems/wetterdaten_mobile.php",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "0.1.0"
+}
